@@ -1,0 +1,1 @@
+chiffe = float(input("Saisir un chiffre entre 1 et 9 : "))
